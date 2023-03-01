@@ -8,7 +8,7 @@
 
 ## CTF 入門:透過參與CTF搶旗大賽學習資安實務
   - CTF搶旗大賽 [[線上教材]](./1/1.md) [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
-    - 註冊與登入CTF
+    - 點選本次上課使用的[[CTF 平台]](https://120.114.62.204) 註冊與登入CTF解題
   - 起手式---文件隱寫術之word隱身術{隱寫術101::STEG1} [[YOUTUBE教學錄影]](https://youtu.be/aeXnuZi3XOk)
     - 另一種解法 請參閱 [如何在Word中快速顯示或隱藏所有隱藏的文本？](https://zh-tw.extendoffice.com/documents/word/906-word-show-hide-hidden-text.html) 
   - 【自行完成】{隱寫術101::STEG2_Secret in PDF}
