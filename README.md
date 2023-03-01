@@ -2,7 +2,7 @@
 - 課程單元: MyFirstSecurity資安入門的第一堂課
 - 請依照底下順序完成
 
-# [[開場白與課程說明]](./0.md)[[YOUTUBE教學錄影(傍晚公布)]](https://youtu.be/e_7K2TneejU)
+# [[開場白與課程說明]](./0.md)[[YOUTUBE教學錄影]](https://youtu.be/e_7K2TneejU)
 - 記得要簽到簿(不要遲到) [點選去簽到](https://forms.gle/MwjTDomakPUsqHtu8)
 - 記得要下課後還要填寫 回饋問卷 https://forms.gle/gAP8ZtjautZZbZxBA
 
