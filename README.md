@@ -41,7 +41,7 @@
     - Crypto101::CRY5題目解答[[YOUYUBE教學錄影]](https://youtu.be/P2fCkFC2eRA)
   - 【自行完成】【頻率分析法】的破密技術{Crypto101::CRY6}
   -  Crypto101::CRY7_Rail Fence Cipher [[YOUYUBE教學錄影]](https://youtu.be/DLIf0kpByYs)
-  - 【自行完成】{Crypto101::CRY8_ROT47}
+  - 【自行完成】{Crypto101::CRY8_ROT47}  ~上網學學ROT47的運作原理 歐
 
 ## 你可以自己決定何時下課! 
 ## 記得~ 下課後 ~ 要填寫 回饋問卷 https://forms.gle/gAP8ZtjautZZbZxBA
