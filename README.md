@@ -37,7 +37,7 @@
   - 密碼棒加解密 Scytale [英文WIKI說明](https://en.wikipedia.org/wiki/Scytale) [中文WIKI的說明](https://zh.m.wikipedia.org/zh-tw/%E5%AF%86%E7%A2%BC%E6%A3%92)
     - 題目:Crypto101::CRY4 SCYTCRYPTO 密碼棒破密}  [[YOUYUBE教學錄影]](https://youtu.be/8XbZSa-1GkE)
   - Vigenère cipher  
-    - 基本觀念 [課程線上教材](./1/Vigen%C3%A8recipher.md) [[YOUYUBE教學錄影]](https://youtu.be/m21YiTlprKY)
+    - 基本觀念 [線上教材](./1/Vigen%C3%A8recipher.md) [[YOUYUBE教學錄影]](https://youtu.be/m21YiTlprKY)
     - Crypto101::CRY5題目解答[[YOUYUBE教學錄影]](https://youtu.be/P2fCkFC2eRA)
   - 【自行完成】【頻率分析法】的破密技術{Crypto101::CRY6}
   - 【自行完成】{Crypto101::CRY7_Rail Fence Cipher}
