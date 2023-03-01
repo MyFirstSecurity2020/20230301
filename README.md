@@ -37,6 +37,6 @@
   - Vigenère cipher  
     - 基本觀念 [課程線上教材](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A1_MyFirstSecurity%E8%B3%87%E5%AE%89%E5%85%A5%E9%96%80%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A0%82%E8%AA%B2/Vigen%C3%A8recipher.md) [[YOUYUBE教學錄影]]()
     - Crypto101::CRY5題目解答[[YOUYUBE教學錄影]](https://youtu.be/P2fCkFC2eRA)
-  - 【頻率分析法】的破密技術{Crypto101::CRY6}
+  - 【自行完成】【頻率分析法】的破密技術{Crypto101::CRY6}
   - 【自行完成】{Crypto101::CRY7_Rail Fence Cipher}
   - 【自行完成】{Crypto101::CRY8_ROT47}
