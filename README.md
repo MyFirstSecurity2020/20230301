@@ -40,7 +40,7 @@
     - 基本觀念 [線上教材](./1/Vigen%C3%A8recipher.md) [[YOUYUBE教學錄影]](https://youtu.be/m21YiTlprKY)
     - Crypto101::CRY5題目解答[[YOUYUBE教學錄影]](https://youtu.be/P2fCkFC2eRA)
   - 【自行完成】【頻率分析法】的破密技術{Crypto101::CRY6}
-  - 【自行完成】{Crypto101::CRY7_Rail Fence Cipher}
+  -  Crypto101::CRY7_Rail Fence Cipher [[YOUYUBE教學錄影]](https://youtu.be/DLIf0kpByYs)
   - 【自行完成】{Crypto101::CRY8_ROT47}
 
 ## 你可以自己決定何時下課! 
