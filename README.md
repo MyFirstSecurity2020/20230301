@@ -3,7 +3,8 @@
 - 請依照底下順序完成
 
 # [[開場白與課程說明]](./1/1.md)[[YOUTUBE影片(傍晚公布)]]()
-
+- 記得要簽到簿(不要遲到) [點選去簽到](https://forms.gle/MwjTDomakPUsqHtu8)
+- 記得要填寫回饋問卷 https://forms.gle/gAP8ZtjautZZbZxBA
 ## CTF 入門:透過參與CTF搶旗大賽學習資安實務 [[YOUTUBE教學錄影]](https://youtu.be/2GWc9hsw794)
   - CTF搶旗大賽
   - 註冊與登入CTF
