@@ -44,6 +44,4 @@
   - 【自行完成】{Crypto101::CRY8_ROT47}  ~上網學學ROT47的運作原理 歐
 
 ## 你可以自己決定何時下課! 
-## 記得~ 下課後 ~ 要填寫 回饋問卷 https://forms.gle/gAP8ZtjautZZbZxBA
-## 記得~ 下課後 ~ 要填寫 回饋問卷 https://forms.gle/gAP8ZtjautZZbZxBA
-## 記得~ 下課後 ~ 要填寫 回饋問卷 https://forms.gle/gAP8ZtjautZZbZxBA
+## 記得~ 下課後 ~ 要填寫 回饋問卷 
